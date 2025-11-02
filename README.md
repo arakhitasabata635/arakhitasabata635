@@ -9,34 +9,34 @@
 ---
 
 ### 💡 About Me
-- 🔥 Love building **real-world MERN applications**
-- ✨ Always learning new technologies & improving skills
-- 🧩 Strong interest in **Backend + System Design**
-- 🎯 Goal: **SDE 1 (Full-Stack Developer)**
+- 🌱 Currently improving my skills in **React, Node.js, Express & MongoDB**
+- 🧩 I love creating practical apps that solve real-life problems
+- 🎯 Goal: Become a **Junior Web Developer / MERN Intern**
+- 🔍 Always curious to learn new technologies & clean coding
+- 🛠️ “Every project I build teaches me something new!”
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
-🛍️ **MERN E-commerce — Cricket Weapon Store**  
-➡️ https://github.com/MehraDevesh2022/mern-ecommerce-CricketWeapon-Store
-
-🏠 **Airbnb Clone for Learning**  
+🏠 **Airbnb Clone for Learning **  
 ➡️ https://github.com/arakhitasabata635/airbnb-backend-for-learning
 
-🎯 More Projects: https://github.com/arakhitasabata635?tab=repositories
+ **Country name and details **  
+https://github.com/arakhitasabata635/all-country-flag-and-details
 
 ---
 
@@ -57,7 +57,7 @@
   <a href="https://www.linkedin.com/in/arakhita-sabata-416bb237b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:arakhitasabata@gmail.com">
+  <a href="mailto:work.arakhita@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
